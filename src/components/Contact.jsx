@@ -9,9 +9,6 @@ export default function Contact() {
             <a href="https://github.com/Furkan2310" className="clink" target="_blank" rel="noreferrer">
               <span className="clink-icon">⌥</span>GitHub
             </a>
-            <a href="mailto:furkan.ozkan@epitech.eu" className="clink">
-              <span className="clink-icon">✉</span>Mail
-            </a>
             <a href="https://www.linkedin.com/in/furkan-ozkan-4817243bb/" className="clink" target="_blank" rel="noreferrer">
               <span className="clink-icon">↗</span>Linkedin
             </a>
